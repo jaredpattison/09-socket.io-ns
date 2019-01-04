@@ -12,7 +12,9 @@
 * [front-end](http://xyz.com)
 
 ### Modules
-#### `modulename.js`
+#### `server.js`
+#### `app.js`
+#### `client.js`
 ##### Exported Values and Methods
 
 ###### `foo(thing) -> string`
