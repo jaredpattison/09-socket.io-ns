@@ -1,12 +1,12 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## socket.io-ns
 
-### Author: Student/Group Name
+### Author: Jared Pattisonn
 
 ### Links and Resources
-* [repo](http://xyz.com)
+* [repo](https://github.com/jaredpattison/09-socket.io-ns)
 * [travis](http://xyz.com)
 * [back-end](http://xyz.com)
 * [front-end](http://xyz.com)
