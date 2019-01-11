@@ -10,4 +10,4 @@ letters.on('letter', (payload) => {
 
 numbers.on('number', (num) => {
   console.log({num});
-})
+});
